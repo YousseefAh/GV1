@@ -15,7 +15,6 @@ int main()
     }
     for(int i=0;i<numstudends;i++){
         cout<<marks[i] ;
-        //test
-        //test 22
+        //github
     }
 }
